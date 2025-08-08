@@ -38,6 +38,7 @@ nav img {
 
 .hero {
     background-image: url(/images/article-image-hero.png);
+    background-color: black;
     background-size: cover;
     color: white;
     padding: 4.5rem;
