@@ -1,19 +1,32 @@
-# Getting Started
-Install the dependencies and run the project
+## Learning Journal
+
+This project is a template for a journal site with blog posts, designed to help learn responsive web design. It was built as part of Scrimba's Responsive Web Design course.
+
+### Features
+
+- Responsive layout for desktop and mobile
+- Blog post structure
+- Clean, modern design
+- Easy to customize
+
+### Purpose
+
+The goal of this project is to practice and demonstrate skills in responsive web design, HTML, CSS, and basic site structure.
+
+### Getting Started
+
+Install the dependencies and run the project:
+
 ```
 npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+### Links
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- [GitHub Profile](https://github.com/CiaoGab)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/CiaoGab)
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+Feel free to fork, clone, or use this template for your own learning!
